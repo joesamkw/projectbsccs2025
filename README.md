@@ -7,6 +7,7 @@ GROUP MEMBERS
 6.	Meda Cherono BSCCS/2025/58376
 7.	Laetetia Mumbe BSCCS/2025/41891
 
+
      Project Title
 Data Structure Classification and Applications
       Description
