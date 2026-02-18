@@ -7,3 +7,12 @@ GROUP MEMBERS
 5.	Ruby Kwamboka BSCCS/2025/51470
 6.	Meda Cherono BSCCS/2025/58376
 7.	Laetetia Mumbe  BSCCS/2025/41891
+Project Title
+Data Structure Classification and Applications
+Description
+This project demonstrates the classification of data structures and their implementation using the C programming language.
+The assignment covers:
+•	Primitive and Non-Primitive Data Structures
+•	Linear and Non-Linear Data Structures
+•	Applications of each data structure
+•	How data structures and algorithms work within systems
